@@ -8,7 +8,7 @@
 	safecrlf = true
 
 [push]
-	default = tracking
+	default = upstream
 
 [branch]
 	autosetuprebase = always
